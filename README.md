@@ -1,4 +1,4 @@
 # firstdemo
-hello
+HELLO
 this is a demo repository
 
